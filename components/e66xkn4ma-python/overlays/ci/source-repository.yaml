@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: e66xkn4ma-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/e66xkn4ma-python
